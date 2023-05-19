@@ -22,4 +22,4 @@ This notebook takes both CSV files and combines them into a single dataset. It t
 
 # Here we see that between Las Vegas and Miami, Las Vegas has the better home prices, but also less availability. 
 
-# Finally the data showed between these last two choices that Las Vegas would be our client's preferred city considering his prefences. The only other thing to say though is that he might need to exercise some patience in finding a home there since availability is the lowest of all the cities.
+# Finally the data indicated that Augustin B had a choice to make based on which compromise was more palatable to him: to either play the long game and be patient and wait for an appropriate listing to come up for Las Vegas, or to go to Miami where he is more likely to find a house, but where it is also more humid. 
